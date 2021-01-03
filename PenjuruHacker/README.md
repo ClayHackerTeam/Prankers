@@ -1,15 +1,11 @@
 # Prankers
-- Coded by Bartes Dwiky
-
+#HackerPenjuru
 # Version 1.0
+
 - SpamCall Unlimited
 - SpamSms Unlimited
 - SpamGmail Unlimited
 - SpamWhatsapp Unlimited
-
-# Contactme
-- https://www.instagram.com/bartes_07
-- clayhackerteam404@gmail.com
 
 # Website / Forum
 - http://www.ootopia.id/
